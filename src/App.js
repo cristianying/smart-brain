@@ -19,7 +19,7 @@ const app = new Clarifai.App({
 
 
 class App extends Component {
-
+//hello
 constructor(){
 	super();
 	this.state={
